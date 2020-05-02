@@ -2,33 +2,17 @@
 
 ---
 
-### Category Name 1 
+### HTML Designs
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Neumorphism Card](http://dev.beconfident.me/)
+<img src="images/Neumorphism-card.png?raw=true"/>
 
 ---
 
-### Category Name 2
+### Pet projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
+- [Github jobs crawler](https://beconfident.me/)
+- [VS Code on self-hosted server](https://code-server.beconfident.me/)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
