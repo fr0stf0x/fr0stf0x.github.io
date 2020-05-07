@@ -1,4 +1,4 @@
-## My work
+## My work - Fr0stF0x
 
 ---
 
@@ -7,6 +7,8 @@
 [ADX](https://platform.a1digihub.com/v3)
 
 <img src="images/adx.png?raw=true"/>
+
+<img src="images/adx2.png?raw=true"/>
 
 *Campaign dashboard*
 
@@ -27,12 +29,6 @@
 [fr0stf0x's Tech blog](https://beconfident.me)
 
 *My tech blogs about Dev, JavaScript Ecosystem, Functional Programming*
-
-[Neumorphism Card](https://design.beconfident.me/)
-
-<img src="images/Neumorphism-card.png?raw=true"/>
-
-*Neumorphism effect using HTML/CSS*
 
 [Bright Hotel](https://bright-hotel.beconfident.me)
 
