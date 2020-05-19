@@ -26,6 +26,8 @@
 
 ### Side projects
 
+[Svelte animated form](https://fr0stf0x.github.io/svelte-animated-form)
+
 [fr0stf0x's Tech blog](https://beconfident.me)
 
 *My tech blogs about Dev, JavaScript Ecosystem, Functional Programming*
