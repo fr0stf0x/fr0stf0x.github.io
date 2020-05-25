@@ -6,9 +6,9 @@
 
 [ADX](https://platform.a1digihub.com/v3)
 
-<img src="images/adx.png?raw=true"/>
+<img src="images/platform.png?raw=true"/>
 
-<img src="images/adx2.png?raw=true"/>
+<img src="images/platform2.png?raw=true"/>
 
 *Campaign dashboard*
 
@@ -26,11 +26,23 @@
 
 ### Side projects
 
-[Svelte animated form](https://fr0stf0x.github.io/svelte-animated-form)
+[Svelte animated form](https://svelte-animated-form.netlify.app/)
+
+<img src="images/animated-form.png?raw=true"/>
+
+*Animated form with password meter using Svelte*
 
 [fr0stf0x's Tech blog](https://beconfident.me)
 
+<img src="images/about-me.png?raw=true"/>
+
 *My tech blogs about Dev, JavaScript Ecosystem, Functional Programming*
+
+[Workcation](https://workcations.netlify.app/)
+
+<img src="images/workcation.png?raw=true"/>
+
+*TailwindCSS and VueJS combined to a gorgeous app*
 
 [Bright Hotel](https://bright-hotel.beconfident.me)
 
@@ -38,9 +50,13 @@
 
 [Github jobs crawler](https://jobs.beconfident.me/)
 
+<img src="images/jobs.png?raw=true"/>
+
 *Use Github's Job API and NodeJS, Cronjob, Redis, ReactJS to fetch and render junior jobs posted on Github every 1 hour*
 
 [VS Code on self-hosted server](https://code-server.beconfident.me/)
+
+<img src="images/code-server.png?raw=true"/>
 
 * Bring favorite IDE VSCode to my personal server
 * I can *Code on any machines*
