@@ -18,7 +18,10 @@
 
 *Data aggregation and automated reporting tools*
 
-[Monitor system](https://adx.ants.vn/logging/v3.1/#)
+Monitor system
+<!---
+(https://adx.ants.vn/logging/v3.1/#)
+-->
 
 *Tool for monitor entire system*
 
