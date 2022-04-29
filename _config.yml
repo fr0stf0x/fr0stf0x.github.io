@@ -4,6 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Developer. Optimizer. Learner. <br><br>
   
   <a href="https://github.com/fr0stf0x/curriculum-vitae/blob/main/cv.pdf">Download my CV</a><br><br>
+  <a href="https://curriculum-vitae-olive.vercel.app">View my CV</a><br><br>
   <a href="https://fr0stf0x.vercel.app/">View my website</a>
   
 theme: jekyll-theme-minimal
