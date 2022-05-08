@@ -2,6 +2,14 @@
 
 ---
 
+### Zigvy Corporation
+
+[Creaticode](https://creaticode.com)
+
+<img src="images/creaticode1.png" />
+
+<img src="images/creaticode2.png" />
+
 ### ANTS Programmatic
 
 [ADX](https://platform.a1digihub.com/v3)
@@ -28,6 +36,24 @@ Monitor system
 ---
 
 ### Side projects
+
+[Portfolio](https://fr0stf0x.vercel.app/)
+
+<img src="images/portfolio.png"/>
+
+[eslint-plugin-absolute-imports-only](https://www.npmjs.com/package/eslint-plugin-absolute-imports-only)
+
+*A (zero-dependency!) eslint plugin that enforces absolute imports on your codebase.*
+
+[eslint-config-padding-spacing](https://www.npmjs.com/package/eslint-config-padding-spacing)
+
+*A (zero-dependency!) eslint config including padding and spacing practices that will make your code look better.*
+
+[TakeAetoN](https://takeaeton.vercel.app/)
+
+<img src="images/takeaeton.png"/>
+
+*Small todo app built with ViteJS, ReactJS and react-spring*
 
 [Svelte animated form](https://svelte-animated-form.netlify.app/)
 
